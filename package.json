@@ -1,0 +1,15 @@
+{
+  "name": "crudapp",
+  "version": "1.0.0",
+  "description": "The objective of this assignment is to create a simple CRUD (Create, Read, Update, Delete) application using Express. This will involve setting up an Express server that can handle basic database operations without a database, using an in-memory array as the data store.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Brittany Bowen <britt.s.bowen@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
