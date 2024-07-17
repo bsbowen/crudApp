@@ -15,6 +15,8 @@ let items = [];
 
 // Create Operation: POST /items
 // Endpoint to create a new item
+
+//(request, reponse)
 app.post('/items', (req, res) => {
     // Create a new item with a unique id and the properties from the request body
     const newItem = {
